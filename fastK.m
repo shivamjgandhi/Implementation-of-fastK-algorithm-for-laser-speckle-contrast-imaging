@@ -60,7 +60,4 @@ for i = 1:m-w+1
     end
 end
 
-%step 6
-K = K/median(median(K))
-
 end
