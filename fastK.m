@@ -1,5 +1,8 @@
 function K = fastK(Raw)
 
+% Credits: Shivam Gandhi, Brown University
+% Release date: 1/10/2019
+
 %This algorithm produces a Kmap for an input image from LSCI.
 
 %Step 1
